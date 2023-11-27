@@ -1,1 +1,0 @@
-# kubescape-test
